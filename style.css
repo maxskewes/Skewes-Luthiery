@@ -1,0 +1,10 @@
+body {
+    background-image: url("img/background.png");
+    width: 100%;
+   }
+
+.logo   {
+    width:50%;
+    position: absolute;
+    align-self: center;
+}
